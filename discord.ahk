@@ -10,6 +10,7 @@
         send, {Enter}
         sleep, 100
     }
+
 Esc::
     BreakLoop = 1
 Return
